@@ -1,7 +1,5 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
-
 When calling the checkConnection() method, you can pass the desired route as an argument:
 
 NetworkChecker networkChecker = NetworkChecker();
